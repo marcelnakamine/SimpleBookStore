@@ -1,1 +1,20 @@
-Details Test
+{>"layouts/master" /}
+
+{<body}
+  <div class="large-4 columns book">
+    <img src="/img/node1.jpg" alt="">
+  </div>
+  <div class="large-8 columns book">
+    <h2>Professional node.js</h2>
+    <ul class="bookInfo">
+      <li>Category: Node.js</li>
+      <li>Author: John Doe</li>
+      <li>Publisher: Some Publisher</li>
+    </ul>
+    <br>
+    <div class="price"><span>$19.99</span></div>
+    <br>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci id inventore consequatur doloribus nesciunt unde quasi ab sapiente, voluptatum hic incidunt, soluta natus at ipsum eligendi rerum similique illum. Dolore aut, libero debitis reprehenderit officia repudiandae, ducimus. Eligendi nobis nulla, sit vel impedit quas minima, officia doloremque architecto reprehenderit deleniti.</p>
+    <a class="button success">Add to Cart</a>
+  </div>
+{/body}

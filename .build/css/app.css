@@ -1,21 +1,26 @@
 /* line 1, css/app */
+ul,
+li {
+  list-style: none;
+}
+/* line 5, css/app */
 .top-bar {
   margin-bottom: 20px;
 }
-/* line 5, css/app */
+/* line 9, css/app */
 .book {
   text-align: center;
 }
-/* line 7, css/app */
+/* line 11, css/app */
 .book .h4 {
   margin-top: 15px;
 }
-/* line 12, css/app */
+/* line 16, css/app */
 .price {
   margin: 5px;
   font-size: 18px;
 }
-/* line 15, css/app */
+/* line 19, css/app */
 .price span {
   color: green;
   background: #f4f4f4;
@@ -23,7 +28,7 @@
   border: 1px #ccc solid;
   border-radius: 50%;
 }
-/* line 24, css/app */
+/* line 28, css/app */
 footer {
   margin-top: 40px;
   padding: 10px;
