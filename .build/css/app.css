@@ -1,0 +1,31 @@
+/* line 1, css/app */
+.top-bar {
+  margin-bottom: 20px;
+}
+/* line 5, css/app */
+.book {
+  text-align: center;
+}
+/* line 7, css/app */
+.book .h4 {
+  margin-top: 15px;
+}
+/* line 12, css/app */
+.price {
+  margin: 5px;
+  font-size: 18px;
+}
+/* line 15, css/app */
+.price span {
+  color: green;
+  background: #f4f4f4;
+  padding: 10px;
+  border: 1px #ccc solid;
+  border-radius: 50%;
+}
+/* line 24, css/app */
+footer {
+  margin-top: 40px;
+  padding: 10px;
+  text-align: center;
+}
